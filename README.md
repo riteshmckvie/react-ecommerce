@@ -105,4 +105,4 @@ https://lerna.js.org/
 
 Api: https://github.com/viniarruda/elixir-ecommerce-api [Elixir]
 
-Enjoy!
+Enjoy buddy!
